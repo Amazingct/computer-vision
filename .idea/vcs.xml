@@ -3,5 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cassava project/DataCapture" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cassava project/Tensorflow/models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cassava project/Tensorflow/models/tfmodels" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cassava project/Tensorflow/scripts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cassava project/label_code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cassava project/labeller" vcs="Git" />
   </component>
 </project>
